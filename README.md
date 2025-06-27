@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-I am a learner of the ALX [**specify program**] and a passionate software engineer. I embarked on this journey because [insert why you started software engineering]. My passion lies in [insert what you are passionate about] and I am inspired by [insert what inspires you].
+I am a learner of the ALX Front-End Engineering program and a passionate software engineer. I embarked on this journey because I enjoy building beautiful and functional web interfaces that create real impact.
 
-My vision is to [insert your vision], and to achieve this, I focus on creating innovative, user-friendly, and efficient digital experiences.
+My passion lies in frontend development—bringing designs to life with clean, responsive, and user-centered code. I am inspired by my own growth, curiosity, and determination to always improve.
 
----
+My vision is to become an advanced front-end developer, and to achieve this, I focus on creating innovative, user-friendly, and efficient digital experiences.
 
 ## 🎯 My Goals
 
