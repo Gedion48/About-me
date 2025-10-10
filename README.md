@@ -95,5 +95,5 @@ I am excited to work on projects related to:
 ---
 
 Thank you for visiting my profile!  
-If you want, I can help you personalize this template further. How can I assist you with making it more *you*?
+
 
