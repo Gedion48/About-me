@@ -1,40 +1,36 @@
-# About-me
-
-<!--
-  GitHub Profile README Template for Gedion Fetene
--->
-
-<h1 align="center">Hi there, I'm Gedion Fetene 👋</h1>
+# 👋 Hi, I'm Gedion Fetene
 
 <p align="center">
-  <strong>Front End Developer | Graphic Designer | UX/UI Designer</strong>
+  <strong>Junior Software Developer | Frontend Specialist | Computer Science Graduate</strong>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a learner of the ALX Front-End Engineering program and a passionate software engineer. I embarked on this journey because I enjoy building beautiful and functional web interfaces that create real impact.
+I am a **Computer Science graduate** and an **ALX Software Engineering ProDev Frontend** program graduate, with hands-on experience building modern, responsive, and user-focused web applications.
 
-My passion lies in frontend development—bringing designs to life with clean, responsive, and user-centered code. I am inspired by my own growth, curiosity, and determination to always improve.
+I specialize in **frontend development**, with a strong foundation in **JavaScript, React, HTML, CSS**, and working knowledge of **Java** and software engineering principles such as **object-oriented programming**, **version control**, and **collaborative development**.
 
-My vision is to become an advanced front-end developer, and to achieve this, I focus on creating innovative, user-friendly, and efficient digital experiences.
-
-## 🎯 My Goals
-
-- Develop and contribute to projects that solve real-world problems
-- Collaborate with like-minded professionals in the tech community
-- Continuously grow my skills in Front End Development, UX/UI Design, and Graphic Design
+I enjoy turning ideas and designs into functional, scalable software solutions. I am highly motivated, detail-oriented, and eager to grow as a **junior software developer** by learning from experienced teams and contributing to real-world projects.
 
 ---
 
-## 💻 Projects I'm Interested In
+## 🎯 Career Goals
 
-I am excited to work on projects related to:
+- Build and contribute to reliable, user-centered software applications  
+- Grow professionally as a junior software developer in a collaborative environment  
+- Strengthen my skills across frontend and general software engineering  
+- Continuously learn new technologies and best practices  
 
-- Responsive web applications with modern frontend frameworks (React, Vue, etc.)
-- UX/UI design projects focusing on accessibility and usability
-- Creative graphic design projects that blend aesthetics with functionality
+---
+
+## 💻 Areas of Interest
+
+- Frontend web development (React, modern JavaScript)
+- Software development and clean code practices
+- UI implementation and usability-focused interfaces
+- Collaborative, team-based engineering projects
 
 ---
 
@@ -43,57 +39,51 @@ I am excited to work on projects related to:
 <table>
   <tr>
     <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-      <br>HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+      <br/>HTML5
     </td>
     <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-      <br>CSS3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+      <br/>CSS3
     </td>
     <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-      <br>JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+      <br/>JavaScript
     </td>
     <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-      <br>React
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+      <br/>React
     </td>
   </tr>
   <tr>
     <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" />
-      <br>Figma
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+      <br/>Java
     </td>
     <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobephotoshop/adobephotoshop-plain.svg" alt="Photoshop" width="40" />
-      <br>Photoshop
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+      <br/>Git
     </td>
     <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-plain.svg" alt="Illustrator" width="40" />
-      <br>Illustrator
-    </td>
-    <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-      <br>Git
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
+      <br/>Figma
     </td>
   </tr>
 </table>
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact Me
 
-- **LinkedIn:** [linkedin.com/in/gedion-fetene-20a0012a5](https://www.linkedin.com/in/gedion-fetene-20a0012a5)  
+- **LinkedIn:** [linkedin.com/in/gedion-fetene-20a0012a5](https://www.linkedin.com/in/gedion-fetene-20a0012a5)
 - **Email:** gedionfetne77@gmail.com
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Gedion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedion48&show_icons=true&theme=radical)
 
 ---
 
-Thank you for visiting my profile!  
-
-
+⭐ Thank you for visiting my profile!
