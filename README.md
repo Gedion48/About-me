@@ -8,75 +8,66 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science graduate** and an **ALX Software Engineering ProDev Frontend** program graduate, with hands-on experience building modern, responsive, and user-focused web applications.
+I am a **Computer Science graduate** and an **ALX Software Engineering ProDev (Frontend) graduate**, with hands-on experience building modern, responsive, and user-focused web and mobile applications.
 
-I specialize in **frontend development**, with a strong foundation in **JavaScript, React, HTML, CSS**, and working knowledge of **Java** and software engineering principles such as **object-oriented programming**, **version control**, and **collaborative development**.
+I specialize in **frontend development**, with strong experience in **HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS**, and working knowledge of **React Native**, **GraphQL**, and **Java**.
 
-I enjoy turning ideas and designs into functional, scalable software solutions. I am highly motivated, detail-oriented, and eager to grow as a **junior software developer** by learning from experienced teams and contributing to real-world projects.
+I enjoy transforming ideas and designs into functional, scalable, and clean software solutions. I am highly motivated, detail-oriented, and eager to grow as a **junior software developer** by learning from experienced teams and contributing to real-world projects.
 
 ---
 
 ## 🎯 Career Goals
 
 - Build and contribute to reliable, user-centered software applications  
-- Grow professionally as a junior software developer in a collaborative environment  
-- Strengthen my skills across frontend and general software engineering  
+- Grow professionally as a junior software developer in collaborative teams  
+- Strengthen my frontend and general software engineering skills  
 - Continuously learn new technologies and best practices  
 
 ---
 
 ## 💻 Areas of Interest
 
-- Frontend web development (React, modern JavaScript)
-- Software development and clean code practices
-- UI implementation and usability-focused interfaces
+- Frontend web development (React, Next.js, modern JavaScript & TypeScript)
+- Mobile app development with React Native
+- Clean code and scalable software architecture
+- UI/UX-focused development and usability
 - Collaborative, team-based engineering projects
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<table>
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-      <br/>HTML5
-    </td>
-    <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-      <br/>CSS3
-    </td>
-    <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-      <br/>JavaScript
-    </td>
-    <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-      <br/>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-      <br/>Java
-    </td>
-    <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-      <br/>Git
-    </td>
-    <td align="center" width="120px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
-      <br/>Figma
-    </td>
-  </tr>
-</table>
+### 🌐 Frontend & Mobile
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- TypeScript  
+- React  
+- Next.js  
+- React Native  
+- Tailwind CSS  
+
+### 🔗 Backend & APIs
+- GraphQL (fundamentals & integration)
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Figma  
+
+### 📚 Core Software Engineering
+- Object-Oriented Programming (OOP)
+- Version Control
+- Responsive Design
+- Collaborative Development
+- Problem Solving
 
 ---
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [linkedin.com/in/gedion-fetene-20a0012a5](https://www.linkedin.com/in/gedion-fetene-20a0012a5)
-- **Email:** gedionfetne77@gmail.com
+- **LinkedIn:** [linkedin.com/in/gedion-fetene-20a0012a5](https://www.linkedin.com/in/gedion-fetene-20a0012a5)  
+- **Email:** gedionfetne77@gmail.com  
 
 ---
 
