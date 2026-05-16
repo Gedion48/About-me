@@ -1,73 +1,75 @@
 # 👋 Hi, I'm Gedion Fetene
 
 <p align="center">
-  <strong>Junior Software Developer | Frontend Specialist | Computer Science Graduate</strong>
+  <strong>Full Stack Developer | Computer Science Graduate | ALX Software Engineering Alumnus</strong>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Computer Science graduate** and an **ALX Software Engineering ProDev (Frontend) graduate**, with hands-on experience building modern, responsive, and user-focused web and mobile applications.
+I am a **Computer Science graduate** from Hawassa University and an **ALX Software Engineering ProDev graduate** with hands-on experience building modern, scalable, and user-focused web applications.
 
-I specialize in **frontend development**, with strong experience in **HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS**, and working knowledge of **React Native**, **GraphQL**, and **Java**.
+I specialize in **full-stack development** with strong proficiency in **React.js, Next.js, Node.js, TypeScript, Python, and modern databases**. I enjoy transforming ideas into functional, clean, and high-performing software solutions.
 
-I enjoy transforming ideas and designs into functional, scalable, and clean software solutions. I am highly motivated, detail-oriented, and eager to grow as a **junior software developer** by learning from experienced teams and contributing to real-world projects.
+I am highly motivated, detail-oriented, and eager to contribute to real-world projects while continuously learning from experienced teams.
 
 ---
 
 ## 🎯 Career Goals
 
-- Build and contribute to reliable, user-centered software applications  
-- Grow professionally as a junior software developer in collaborative teams  
-- Strengthen my frontend and general software engineering skills  
-- Continuously learn new technologies and best practices  
+- Build and deploy reliable, scalable full-stack applications
+- Grow as a software developer in collaborative, agile teams
+- Strengthen expertise in **system architecture, DevOps, and cloud computing**
+- Continuously learn emerging technologies and industry best practices
 
 ---
 
-## 💻 Areas of Interest
+## 💻 Tech Stack
 
-- Frontend web development (React, Next.js, modern JavaScript & TypeScript)
-- Mobile app development with React Native
-- Clean code and scalable software architecture
-- UI/UX-focused development and usability
-- Collaborative, team-based engineering projects
+### 🌐 Frontend
+- HTML5, CSS3
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js
+- Tailwind CSS, Redux
 
----
+### 🔧 Backend
+- Node.js, Express.js
+- Python
+- REST API, GraphQL
 
-## 🛠️ Skills & Tools
+### 🗄️ Databases
+- MongoDB
+- PostgreSQL
+- Prisma ORM
 
-### 🌐 Frontend & Mobile
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- TypeScript  
-- React  
-- Next.js  
-- React Native  
-- Tailwind CSS  
+### 🐳 DevOps & Tools
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Docker
+- VS Code, Figma
 
-### 🔗 Backend & APIs
-- GraphQL (fundamentals & integration)
+### 📱 Mobile
+- React Native (working knowledge)
 
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Figma  
-
-### 📚 Core Software Engineering
-- Object-Oriented Programming (OOP)
-- Version Control
-- Responsive Design
-- Collaborative Development
-- Problem Solving
+### 🧠 Core Skills
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Responsive & Accessible Design
+- Collaborative Development (Git workflows)
+- Problem Solving & Debugging
 
 ---
 
-## 📫 Contact Me
+## 📌 Featured Projects
 
-- **LinkedIn:** [linkedin.com/in/gedion-fetene-20a0012a5](https://www.linkedin.com/in/gedion-fetene-20a0012a5)  
-- **Email:** gedionfetne77@gmail.com  
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **TatarGig** | React, Node.js, MongoDB | Service marketplace platform connecting users with verified professionals |
+| **Event Orbit** | Next.js, TypeScript, Tailwind, MongoDB | Event discovery and booking platform with SSR |
+| **Pulse Connect** | Next.js, Socket.io, MongoDB | Social networking platform with real-time chat and notifications |
+
+> 🔗 More projects on my [portfolio](https://gedion-fetene-profile1.vercel.app/)
 
 ---
 
@@ -75,6 +77,15 @@ I enjoy transforming ideas and designs into functional, scalable, and clean soft
 
 ![Gedion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedion48&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedion48&layout=compact&theme=radical)
+
 ---
 
-⭐ Thank you for visiting my profile!
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/gedion-fetene-20a0012a5](https://www.linkedin.com/in/gedion-fetene-20a0012a5)
+- **Email:** gedionfetene77@gmail.com
+
+---
+
+⭐ *Open to full-time opportunities, freelance work, and collaborations. Feel free to reach out!*
